@@ -6,7 +6,7 @@
  <p>[x] Adicionar novos componentes na qual mostra meu perfil</p>
  <p>[x] Estilização
  <p>[ ] Colocar Dark Mode</p>
- <p>[ ] Responsivo</p>
+ <p>[ ] Deixar responsivo</p>
  
  <a href="https://acessar-repositorios.vercel.app/"> Deploy </a>
  
